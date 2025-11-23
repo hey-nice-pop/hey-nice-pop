@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
-<!--
-**hey-nice-pop/hey-nice-pop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎹 &nbsp;About me
 
-Here are some ideas to get you started:
+- Self-taught front-end enjoyer who pokes at code until it works
+-	Obsessed with building communities and the systems that keep them alive
+-	Back-end? …I mean, I can, but please don’t make me
+-	Hardcore vinyl collector and a guitarist whose skills are vastly underrated — mostly by the universe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/hey-nice-pop">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hey-nice-pop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hey-nice-pop&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://x.com/imo_watch"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fimo_watch&logo=X&logoSize=auto&label=imo_watch">
+</a>
+</p>
+
+-----
+Credits: [hey-nice-pop](https://github.com/hey-nice-pop)
